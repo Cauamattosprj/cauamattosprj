@@ -1,5 +1,6 @@
 - 💫 Sobre mim:
-- 🔭 Atualmente desenvolvo um cargo como Assistente de T.I. e meu objetivo profissional é me tornar um desenvolvedor!<br>- 📫 Você pode entrar em contato comigo através do e-mail: caua.h4k@gmail.com<br>
+- 🔭 Atualmente exerço um cargo como Assistente de T.I. e meu objetivo profissional é me tornar um desenvolvedor!
+- 📫 Você pode entrar em contato comigo através do e-mail: caua.h4k@gmail.com<br>
 
 
 ## 🌐 Socials:
