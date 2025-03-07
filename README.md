@@ -1,5 +1,5 @@
 - 💫 Sobre mim:
-- 🔭 Atualmente exerço um cargo como Assistente de T.I. e meu objetivo profissional é me tornar um desenvolvedor!
+- 🔭 Meu nome é Cauã e atuo como Desenvolvedor Júnior, com experiência em Next.js (React | Javascript) TypeScript, Java, Java Spring Boot, criação e consumo de APIs, infraestrutura Linux e UI Design no Figma.
 - 📫 Você pode entrar em contato comigo através do e-mail: caua.h4k@gmail.com<br>
 
 
