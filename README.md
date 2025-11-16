@@ -1,9 +1,6 @@
 - 💫 Sobre mim:
 - 🔭 Meu nome é Cauã e atuo como Desenvolvedor Júnior, com experiência em Next.js (React | Javascript) TypeScript, Java, Java Spring Boot, PHP, Laravel, criação e consumo de APIs, infraestrutura Linux e UI Design no Figma.
-- 📫 Você pode entrar em contato comigo através do e-mail: caua.h4k@gmail.com<br>
-
-
-## 🌐 Socials:
+- 📫 Você pode entrar em contato comigo através do e-mail: caua.h4k@gmail.com<br> e através do Linkedin abaixo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/caua-mattos) 
 
 # 💻 Tech Stack:
